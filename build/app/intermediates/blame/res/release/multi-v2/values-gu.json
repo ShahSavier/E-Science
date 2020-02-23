@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-gu\\values-gu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "464",
+                        "endColumns": "100",
+                        "endOffsets": "560"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\46773fbacf0c56b1dafa5e56ae8cd3cc\\res\\values-gu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,237,287,395,503",
+                        "endColumns": "46,49,107,107,75",
+                        "endOffsets": "236,286,394,502,578"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,160,272,384",
+                        "endColumns": "50,53,111,111,79",
+                        "endOffsets": "101,155,267,379,459"
+                    }
+                }
+            ]
+        }
+    ]
+}

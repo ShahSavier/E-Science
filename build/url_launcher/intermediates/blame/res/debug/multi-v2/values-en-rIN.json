@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

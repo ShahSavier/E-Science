@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">გაუქმება</string>
+    <string name="__arcore_continue">გაგრძელება</string>
+    <string name="__arcore_install_app">ამ აპლიკაციისთვის საჭიროა ARCore-ის უახლესი ვერსია.</string>
+    <string name="__arcore_install_feature">ამ ფუნქციისთვის საჭიროა ARCore-ის უახლესი ვერსია.</string>
+    <string name="__arcore_installing">ARCore-ის ინსტალაცია…</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

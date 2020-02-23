@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">İptal</string>
+    <string name="__arcore_continue">Devam</string>
+    <string name="__arcore_install_app">Bu uygulamanın çalışması için ARCore\'un son sürümü gerekli.</string>
+    <string name="__arcore_install_feature">Bu özelliğin kullanılabilmesi için ARCore\'un son sürümü gerekli.</string>
+    <string name="__arcore_installing">ARCore yükleniyor…</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

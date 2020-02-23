@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Siapakah mempunyai kuasa yang lebih tinggi untuk selesai menaiki tangga setinggi 6 m bermula dari lantai?",
+        "2": "Mengapakah lori yang mempunyai halaju yang sama dengan kereta mempunyai tenaga kinetik yang lebih tinggi?",
+        "3": "Apakah yang dinyatakan oleh prinsip keabadian tenaga?",
+        "4": "James menarik tali busur sejauh 300cm dengan daya 150 N. Jika berat anak panah yang digunakan adalah 370 g, hitung halaju maksimum anak panah tersebut apabila tali busur dilepaskan",
+        "5": "Antara berikut, yang manakah menunjukkan kerja tidak dilakukan?"
+        
+    },
+    {
+        "1": {
+            "a": "Adam berjisim 55kg memerlukan 5s",
+            "b": "Muthu berjisim 58kg memerlukan 6s",
+            "c": "Wen Jie berjisim 56kg memerlukan 5s",
+            "d": "Danial berjisim 50kg memerlukan 6s"
+        },
+        "2": {
+            "a": "Lori mempunyai saiz yang lebih besar",
+            "b": "Lori mempunyai jisim yang lebih besar",
+            "c": "Lori mampu membawa muatan yang lebih banyak",
+            "d": "Lori mempunyai tayar yang lebih banyak"
+        },
+        "3": {
+            "a": "Tenaga boleh dicipta tetapi tidak boleh dimusnahkan",
+            "b": "Tenaga boleh dicipta,dimusnahkan dan berubah kepada bentuk lain",
+            "c": "Sebahagian tenaga musnah ketika berubah bentuk",
+            "d": "Tenaga tidak boleh dicipta dan dimusnahkan tetapi boleh berubah kepada bentuk lain"
+        },
+        "4": {
+            "a": "17.46 m·s−1",
+            "b": "25.09 m·s−1",
+            "c": "34.87 m·s−1",
+            "d": "51.72 m·s−1"
+        },
+        "5": {
+            "a": "Berlari",
+            "b": "Mengayuh basikal",
+            "c": "Duduk di atas kerusi sambil membaca buku",
+            "d": "Mengambil buku dari rak lalu meletakkannya di atas meja"
+        }
+    },
+    {
+        "1": "Wen Jie berjisim 56kg memerlukan 5s",
+        "2": "Lori mempunyai jisim yang lebih besar",
+        "3": "Tenaga tidak boleh dicipta dan dimusnahkan tetapi boleh berubah kepada bentuk lain",
+        "4": "34.87 m·s−1",
+        "5": "Duduk di atas kerusi sambil membaca buku"   
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Apakah yang dimaksudkan dengan astronomi?",
+        "2": "Apakah tujuan pembinaan Stesen Angkasa Antarabangsa(ISS)?",
+        "3": "Apakah agensi yang berperanan memajukan pendidik dan penyelidikan angkasa di negara kita?",
+        "4": "Antara berikut, yang manakah merupakan fungsi satelit?\n\nI. Menyediakan makmal untuk penyelidikan\nII. Mengumpul maklumat cuaca angkasa\nIII. Penderiaan jauh\nIV. Menghantar kuar angkasa",
+        "5": "Antara berikut, bidang manakah yang menggunakan teknologi penderiaan jauh?\n\nI. Pertahanan\nII. Farmakologi\nIII. Bioteknologi\nIV. Pertanian"
+        
+    },
+    {
+        "1": {
+            "a": "Bidang kajian tentang fenomena alam semula jadi",
+            "b": "Bidang kajian tentang objek semula jadi di langit",
+            "c": "Bidang kajian tentang struktur Bumi",
+            "d": "Bidang kajian tentang lautan"
+        },
+        "2": {
+            "a": "Untuk aplikasi komunikasi",
+            "b": "Untuk tujuan penderiaan jauh",
+            "c": "Sebagai tempat persinggahan angkasawan sebelum ke planet lain",
+            "d": "Menyediakan makmal untuk penyelidikan di angkasa"
+        },
+        "3": {
+            "a": "SPA",
+            "b": "MARDI",
+            "c": "ANGKASA",
+            "d": "MACRES"
+        },
+        "4": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "5": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        }
+    },
+    {
+        "1": "Bidang kajian tentang objek semula jadi di langit",
+        "2": "Menyediakan makmal untuk penyelidikan di angkasa",
+        "3": "ANGKASA",
+        "4": "II dan III",
+        "5": "I dan IV"   
+    }
+]

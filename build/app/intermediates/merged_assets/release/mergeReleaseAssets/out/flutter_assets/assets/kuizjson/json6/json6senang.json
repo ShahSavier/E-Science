@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Antara berikut, alat manakah yang menggunakan arus ulang alik?",
+        "2": "Apakah kepentingan dawai Bumi dalam palam 3-pin?",
+        "3": "Antara berikut, lampu manakah mempunyai kecekapan tenaga yang paling tinggi?",
+        "4": "Antara berikut, stesen jana kuasa manakah adalah daripada sumber yang boleh diperbaharui?\n\nI. Stesen janakuasa hibrid, Terengganu\nII. Stesen janakuasa Gelugor, Pulau Pinang\nIII. Stesen janakuasa Sultan Azlan Shah, Perak\nIV. Stesen janakuasa biojisim TSH Bio-Energy Sdn.Bhd, Sabah",
+        "5": "Bagaimanakah cara untuk menjimatkan penggunaan elektrik di rumah?"
+        
+    },
+    {
+        "1": {
+            "a": "Skuter elektrik",
+            "b": "Telefon pintar",
+            "c": "Jam tangan",
+            "d": "Pengisar"
+        },
+        "2": {
+            "a": "Membawa arus elektrik yang bocor ke Bumi",
+            "b": "Membawa arus elektrik kembali ke puncanya",
+            "c": "Membawa arus elektrik ke peralatan elektrik",
+            "d": "Mengurangkan penggunaan tenaga elektrik"
+        },
+        "3": {
+            "a": "Lampu pendarfluor padat",
+            "b": "Lampu halogen",
+            "c": "Lampu pijar",
+            "d": "Lampu LED"
+        },
+        "4": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "5": {
+            "a": "Menggunakan penyaman udara dengan kuasa yang optimum dengan saiz ruang",
+            "b": "Komputer diletakkan dalam mod stanby atau sleep",
+            "c": "Menyimpan barang dalam peti ais sehingga penuh",
+            "d": "Basuh pakaian dengan muatan yang minimum"
+        }
+    },
+    {
+        "1": "Pengisar",
+        "2": "Membawa arus elektrik yang bocor ke Bumi",
+        "3": "Lampu LED",
+        "4": "I dan IV",
+        "5": "Komputer diletakkan dalam mod stanby atau sleep"   
+    }
+]

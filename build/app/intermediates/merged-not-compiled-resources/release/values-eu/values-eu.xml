@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Utzi</string>
+    <string name="__arcore_continue">Egin aurrera</string>
+    <string name="__arcore_install_app">Aplikazio honek ARCore aplikazioaren azken bertsioa behar du.</string>
+    <string name="__arcore_install_feature">Eginbide honek ARCore aplikazioaren azken bertsioa behar du.</string>
+    <string name="__arcore_installing">ARCore instalatzen…</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

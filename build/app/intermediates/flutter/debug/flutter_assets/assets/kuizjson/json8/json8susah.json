@@ -1,0 +1,56 @@
+[
+    {
+        "1": "Antara berikut, zarah manakah membentuk ion negatif?",
+        "2": "Gambar menunjukkan atom X. Diberi p ialah proton manakala n ialah neutron. Apakah yang boleh disimpulkan mengenai atom X?",
+        "3": "Berapakah bilangan lilitan gegelung sekunder sekiranya voltan output transformer adalah dua kali ganda daripada voltan input transformer?",
+        "4": "Sila susun semula bagi mewakili kereaktifan logam terhadap oksigen dalam susunan menurun",
+        "5": "Which function finds out the Variable type in Python ?"
+        
+    },
+    {
+        "1": {
+            "a": "P",
+            "b": "Q",
+            "c": "R",
+            "d": "S"
+        },
+        "2": {
+            "a": "Membentuk ion positif",
+            "b": "Merupakan atom neutral",
+            "c": "Membentuk ion negatif",
+            "d": "Bercanggah dengan Teori Atom Dalton"
+        },
+        "3": {
+            "a": "80",
+            "b": "120",
+            "c": "240",
+            "d": "280"
+        },
+        "4": {
+            "a": "Z, R, Q, T, P",
+            "b": "P, Z, Q, T, R",
+            "c": "T, Q, R, Z, P",
+            "d": "P, Z, R, Q, T"
+        },
+        "5": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        }
+    },
+    {
+        "1": "Q",
+        "2": "Merupakan atom neutral",
+        "3": "Menghasilkan oksigen untuk membakar kok",
+        "4": "Z, R, Q, T, P",
+        "5": "find"   
+    },
+    {
+        "1": "assets/imgkuiz/zarah.png",
+        "2": "assets/imgkuiz/ion.png",
+        "3": "assets/imgkuiz/lilitan.png",
+        "4": "assets/imgkuiz/campuran.png",
+        "5": "assets/imgkuiz/telinga.png"
+    }
+]

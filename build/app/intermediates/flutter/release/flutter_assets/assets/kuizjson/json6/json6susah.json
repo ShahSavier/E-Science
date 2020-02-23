@@ -1,0 +1,56 @@
+[
+    {
+        "1": "Berikut menunjukkan pengelasan sumber tenaga. Apakah contoh bagi X?\n\nI. Tenaga geoterma\nII. Tenaga nuklear\nIII. Gas asli\nIV. Tenaga hidro",
+        "2": "Berikut menunjukkan mekanisme dalam stesen jana kuasa tenaga angin. Apakah Z?",
+        "3": "Berapakah bilangan lilitan gegelung sekunder sekiranya voltan output transformer adalah dua kali ganda daripada voltan input transformer?",
+        "4": "Sila susun semula bagi mewakili kereaktifan logam terhadap oksigen dalam susunan menurun",
+        "5": "Which function finds out the Variable type in Python ?"
+        
+    },
+    {
+        "1": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "2": {
+            "a": "Pembakaran bahan api",
+            "b": "Stim memutarkan turbin",
+            "c": "Bilah memutarkan turbin",
+            "d": "Air didihan menjadi stim"
+        },
+        "3": {
+            "a": "80",
+            "b": "120",
+            "c": "240",
+            "d": "280"
+        },
+        "4": {
+            "a": "Z, R, Q, T, P",
+            "b": "P, Z, Q, T, R",
+            "c": "T, Q, R, Z, P",
+            "d": "P, Z, R, Q, T"
+        },
+        "5": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        }
+    },
+    {
+        "1": "II dan III",
+        "2": "Bilah memutarkan turbin",
+        "3": "Menghasilkan oksigen untuk membakar kok",
+        "4": "Z, R, Q, T, P",
+        "5": "find"   
+    },
+    {
+        "1": "assets/imgkuiz/sumber.png",
+        "2": "assets/imgkuiz/mekanisme.png",
+        "3": "assets/imgkuiz/lilitan.png",
+        "4": "assets/imgkuiz/campuran.png",
+        "5": "assets/imgkuiz/telinga.png"
+    }
+]

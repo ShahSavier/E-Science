@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Apakah sumbangan Marie dan Pierre Curie dalam bidang keradioaktifan?",
+        "2": "Separuh hayat bagi radium-224 ialah 3.66 hari. Berapakah jisim radium yang tinggal selepas 14.64 hari sekiranya jisim asalnya adalah 12g?",
+        "3": "Suatu fosil didapati mengandungi 0.3125 g C-14. Fosil itu dianggarkan asalnya mengandungi 80.000 g C-14. Berapakah usia fosil tersebut?\n[Separuh hayat C-14 = 5.730 tahun]",
+        "4": "Mengapakah buah-buahan yang diawet menggunakan sinar gama selamat untuk dimakan?",
+        "5": "Antara berikut, yang manakah merupakan sinaran tidak mengion?\n\nI. Gelombang mikro\nII. Sinar-X\nIII. Sinar alfa\nIV. Radio"
+        
+    },
+    {
+        "1": {
+            "a": "Menemukan sinar-X",
+            "b": "Menemukan keradioaktifan",
+            "c": "Mengesan pancaran radioaktif",
+            "d": "Menemukan polonium dan radium"
+        },
+        "2": {
+            "a": "0.38g",
+            "b": "0.75g",
+            "c": "1.50g",
+            "d": "3.00g"
+        },
+        "3": {
+            "a": "51570 tahun",
+            "b": "45840 tahun",
+            "c": "40110 tahun",
+            "d": "34380 tahun"
+        },
+        "4": {
+            "a": "Dos sinaran yang digunakan berada pada aras selamat",
+            "b": "Sinar gama daripada bahan radioaktif yang selamat digunakan",
+            "c": "Sinar gama hanya dipancarkan selama 1 saat",
+            "d": "Sinar gama sebenarnya tidak membahayakan kesihatan"
+        },
+        "5": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        }
+    },
+    {
+        "1": "Menemukan polonium dan radium",
+        "2": "0.75g",
+        "3": "45840 tahun",
+        "4": "Dos sinaran yang digunakan berada pada aras selamat",
+        "5": "I dan IV"   
+    }
+]

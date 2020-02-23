@@ -1,0 +1,56 @@
+[
+    {
+        "1": "Apakah contoh bagi X?\n\nI. Perak\nII. Kalsit\nIII. Galena\nIV. Berlian",
+        "2": "Ini adalah proses pengesktrakan logam P. Apakah logam yang mungkin bagi P?",
+        "3": "Relau bagas digunakan untuk mengekstrak besi daripada bijihnya. Mengapa batu kapur ditambahkan ke dalam relau?",
+        "4": "Sila susun semula bagi mewakili kereaktifan logam terhadap oksigen dalam susunan menurun",
+        "5": "Which function finds out the Variable type in Python ?"
+        
+    },
+    {
+        "1": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "2": {
+            "a": "Argentum",
+            "b": "Plumbum",
+            "c": "Kuprum",
+            "d": "Aluminium"
+        },
+        "3": {
+            "a": "Meningkatkan suhu di dalam relau",
+            "b": "Menukarkan bendasing dalam bijih kepada sanga",
+            "c": "Menghasilkan oksigen untuk membakar kok",
+            "d": "Menukarkan bijih kepada besi"
+        },
+        "4": {
+            "a": "Z, R, Q, T, P",
+            "b": "P, Z, Q, T, R",
+            "c": "T, Q, R, Z, P",
+            "d": "P, Z, R, Q, T"
+        },
+        "5": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        }
+    },
+    {
+        "1": "II dan III",
+        "2": "Plumbum",
+        "3": "Menghasilkan oksigen untuk membakar kok",
+        "4": "Z, R, Q, T, P",
+        "5": "find"   
+    },
+    {
+        "1": "assets/imgkuiz/unsur.png",
+        "2": "assets/imgkuiz/esktrak.png",
+        "3": "assets/imgkuiz/relau.png",
+        "4": "assets/imgkuiz/campuran.png",
+        "5": "assets/imgkuiz/telinga.png"
+    }
+]

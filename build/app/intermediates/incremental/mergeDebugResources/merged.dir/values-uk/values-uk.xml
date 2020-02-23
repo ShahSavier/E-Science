@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Скасувати</string>
+    <string name="__arcore_continue">Продовжити</string>
+    <string name="__arcore_install_app">Для цього додатка потрібна остання версія ARCore.</string>
+    <string name="__arcore_install_feature">Для цієї функції потрібна остання версія ARCore.</string>
+    <string name="__arcore_installing">Встановлення ARCore…</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Apakah alat yang digunakan oleh doktor untuk mengukur tekanan darah?",
+        "2": "Haiwan manakah mempunyai sistem peredaran darah yang sama dengan manusia?\n\nI. Salamander\nII. Burung unta\nIII. Ikan paus\nIV. Kura-kura",
+        "3": "Situasi manakah menyebabkan peningkatan kadar denyutan nadi?\n\nI. Berenang\nII. Tidur\nIII. Membaca buku\nIV. Dikejar anjing",
+        "4": "Bagaimanakah oksigen diangkut ke dalam darah",
+        "5": "Apakah faktor yang mempengaruhi proses transpirasi tumbuhan yang diletakkan di bawah kipas?"
+        
+    },
+    {
+        "1": {
+            "a": "Sfigmomanometer",
+            "b": "Termometer",
+            "c": "Stetoskop",
+            "d": "X-ray"
+        },
+        "2": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "3": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "4": {
+            "a": "Dalam bentuk hemoglobin",
+            "b": "Dalam bentuk ion bikarbonat",
+            "c": "Dalam bentuk oksigen terlarut",
+            "d": "Dalam bentuk oksihemoglobin"
+        },
+        "5": {
+            "a": "Suhu",
+            "b": "Keamatan cahaya",
+            "c": "Kelembapan udara",
+            "d": "Pergerakan udara"
+        }
+    },
+    {
+        "1": "Sfigmomanometer",
+        "2": "II dan III",
+        "3": "I dan IV",
+        "4": "Dalam bentuk oksihemoglobin",
+        "5": "Kelembapan udara"   
+    }
+]

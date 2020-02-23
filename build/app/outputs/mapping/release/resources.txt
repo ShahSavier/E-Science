@@ -1,0 +1,707 @@
+android.content.res.Resources#getIdentifier present: true
+Web content present: true
+Referenced Strings:
+  %d.%d.%d
+  %s.%sParcelizer
+  .org.chromium.Chromium.
+  0
+  0.1
+  0x%08x
+  2019.3.0f5
+  96489
+  ACCEPTED
+  ACCESSIBLE_NAVIGATION
+  ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+  ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+  ACTION_ARGUMENT_SELECTION_END_INT
+  ACTION_ARGUMENT_SELECTION_START_INT
+  AMBIENT_INTENSITY
+  APPLICATION
+  AUGMENTED_IMAGE
+  AUTO
+  AccessibilityBridge
+  AccessibilityChannel
+  AndroidManifest.xml
+  AppLifecycleState.inactive
+  AppLifecycleState.paused
+  AppLifecycleState.resumed
+  B
+  BACK
+  BAD_STATE
+  BASE_TRACKABLE
+  BITMAP
+  BITMAP_MASKABLE
+  BLOCKING
+  BOTH
+  BOTTOM_OVERLAYS
+  Brightness.dark
+  Brightness.light
+  C
+  CANCELLED
+  CHARACTERS
+  CLICK
+  COMPLETED
+  COPY
+  CUSTOM_ACTION
+  CUT
+  CameraBackground
+  Cardboard
+  Clipboard.getData
+  Clipboard.setData
+  D
+  DARK
+  DATA
+  DATETIME
+  DECREASE
+  DID_GAIN_ACCESSIBILITY_FOCUS
+  DID_LOSE_ACCESSIBILITY_FOCUS
+  DISABLED
+  DISABLE_ANIMATIONS
+  DISMISS
+  DartExecutor
+  DartMessenger
+  Daydream
+  DeviceOrientation.landscapeLeft
+  DeviceOrientation.landscapeRight
+  DeviceOrientation.portraitDown
+  DeviceOrientation.portraitUp
+  DynamiteClient
+  EMAIL_ADDRESS
+  ENABLED
+  END_OF_LIST
+  ENVIRONMENTAL_HDR
+  ERROR_ANCHOR_NOT_SUPPORTED_FOR_HOSTING
+  ERROR_CAMERA_NOT_AVAILABLE
+  ERROR_CAMERA_PERMISSION_NOT_GRANTED
+  ERROR_CLOUD_ANCHORS_NOT_CONFIGURED
+  ERROR_CLOUD_ID_NOT_FOUND
+  ERROR_DATA_INVALID_FORMAT
+  ERROR_DATA_UNSUPPORTED_VERSION
+  ERROR_DEADLINE_EXCEEDED
+  ERROR_FATAL
+  ERROR_HOSTING_DATASET_PROCESSING_FAILED
+  ERROR_ILLEGAL_STATE
+  ERROR_IMAGE_INSUFFICIENT_QUALITY
+  ERROR_INTERNAL
+  ERROR_INTERNET_PERMISSION_NOT_GRANTED
+  ERROR_INVALID_ARGUMENT
+  ERROR_MISSING_GL_CONTEXT
+  ERROR_NOT_AUTHORIZED
+  ERROR_NOT_TRACKING
+  ERROR_NOT_YET_AVAILABLE
+  ERROR_RESOLVING_LOCALIZATION_NO_MATCH
+  ERROR_RESOLVING_SDK_VERSION_TOO_NEW
+  ERROR_RESOLVING_SDK_VERSION_TOO_OLD
+  ERROR_RESOURCE_EXHAUSTED
+  ERROR_SERVICE_UNAVAILABLE
+  ERROR_SESSION_NOT_PAUSED
+  ERROR_SESSION_PAUSED
+  ERROR_TEXTURE_NOT_SET
+  ERROR_UNSUPPORTED_CONFIGURATION
+  ESTIMATED_SURFACE_NORMAL
+  EXCESSIVE_MOTION
+  F
+  FACE
+  FEATURE
+  FIXED
+  FMOD
+  FMODAudioDevice
+  FOCUS_GAINED
+  FOCUS_LOST
+  FOREHEAD_LEFT
+  FOREHEAD_RIGHT
+  FRAMEWORK_CLIENT
+  FRONT
+  FRONT_CAMERA
+  FULL_TRACKING
+  FlutterActivityDelegate
+  FlutterJNI
+  FlutterLoader
+  FlutterNativeView
+  FlutterRenderer
+  FlutterView
+  Focus
+  HAS_CHECKED_STATE
+  HAS_ENABLED_STATE
+  HAS_IMPLICIT_SCROLLING
+  HAS_TOGGLED_STATE
+  HEAVY_IMPACT
+  HORIZONTAL
+  HORIZONTAL_AND_VERTICAL
+  HORIZONTAL_DOWNWARD_FACING
+  HORIZONTAL_UPWARD_FACING
+  HapticFeedback.vibrate
+  HapticFeedbackType.heavyImpact
+  HapticFeedbackType.lightImpact
+  HapticFeedbackType.mediumImpact
+  HapticFeedbackType.selectionClick
+  I
+  IMAGE_NORMALIZED
+  IMAGE_PIXELS
+  INCREASE
+  INITIALIZED_TO_IDENTITY
+  INSTALLED
+  INSTALL_REQUESTED
+  INSUFFICIENT_FEATURES
+  INSUFFICIENT_LIGHT
+  INVERT_COLORS
+  IS_BUTTON
+  IS_CHECKED
+  IS_ENABLED
+  IS_FOCUSABLE
+  IS_FOCUSED
+  IS_HEADER
+  IS_HIDDEN
+  IS_IMAGE
+  IS_IN_MUTUALLY_EXCLUSIVE_GROUP
+  IS_LINK
+  IS_LIVE_REGION
+  IS_OBSCURED
+  IS_READ_ONLY
+  IS_SELECTED
+  IS_TEXT_FIELD
+  IS_TOGGLED
+  IconCompat
+  InlinedApi
+  J
+  L
+  LANDSCAPE_LEFT
+  LANDSCAPE_RIGHT
+  LAST_KNOWN_POSE
+  LATEST_CAMERA_IMAGE
+  LEFT
+  LIGHT
+  LIGHT_IMPACT
+  LONG_PRESS
+  LTR
+  LifecycleChannel
+  LocalizationChannel
+  MEDIUM_IMPACT
+  MESH3D
+  MOVE_CURSOR_BACKWARD_BY_CHARACTER
+  MOVE_CURSOR_BACKWARD_BY_WORD
+  MOVE_CURSOR_FORWARD_BY_CHARACTER
+  MOVE_CURSOR_FORWARD_BY_WORD
+  MULTILINE
+  MethodCallHandlerImpl
+  NAMES_ROUTE
+  NEXT_FRAME
+  NONE
+  NOSE_TIP
+  NOT_TRACKING
+  NOT_VALID
+  NO_ACTIVITY
+  NO_TARGET
+  NUMBER
+  NavigationChannel
+  NewApi
+  OK
+  OPENGL_NORMALIZED_DEVICE_COORDINATES
+  OPTIONAL
+  PASTE
+  PAUSE
+  PAUSED
+  PHONE
+  PLAIN_TEXT
+  PLANE
+  PLATFORM_VIEW
+  POINT
+  PORTRAIT_DOWN
+  PORTRAIT_UP
+  PermissionNames
+  PlatformChannel
+  PlatformViewsChannel
+  PlatformViewsController
+  PrivateApi
+  QUIT
+  REQUIRED
+  RESOURCE
+  RESUME
+  RIGHT
+  RTL
+  Regular
+  ResourceExtractor
+  S
+  SCOPES_ROUTE
+  SCROLL_DOWN
+  SCROLL_LEFT
+  SCROLL_RIGHT
+  SCROLL_UP
+  SELECTION_CLICK
+  SENTENCES
+  SET_SELECTION
+  SHARED_CAMERA
+  SHOW_ON_SCREEN
+  STANDARD
+  STOPPED
+  SUCCESS
+  SUPPORTED_APK_TOO_OLD
+  SUPPORTED_INSTALLED
+  SUPPORTED_NOT_INSTALLED
+  SURFACE_ACQUIRED
+  SURFACE_LOST
+  Samsung
+  SettingsChannel
+  SharedCameraHandlerThread
+  Start
+  Stub
+  SystemChannel
+  SystemChrome.restoreSystemUIOverlays
+  SystemChrome.setApplicationSwitcherDe...
+  SystemChrome.setEnabledSystemUIOverlays
+  SystemChrome.setPreferredOrientations
+  SystemChrome.setSystemUIOverlayStyle
+  SystemGestures.getSystemGestureExclus...
+  SystemGestures.setSystemGestureExclus...
+  SystemNavigator.pop
+  SystemSound.play
+  SystemSoundType.click
+  SystemUiOverlay.bottom
+  SystemUiOverlay.top
+  TAP
+  TASK_IN_PROGRESS
+  TEXT
+  TEXTURE_NORMALIZED
+  TEXTURE_TEXELS
+  TOP_OVERLAYS
+  TRACKING
+  Text
+  TextCapitalization.characters
+  TextCapitalization.none
+  TextCapitalization.sentences
+  TextCapitalization.words
+  TextInput.clearClient
+  TextInput.hide
+  TextInput.setClient
+  TextInput.setEditingState
+  TextInput.setPlatformViewClient
+  TextInput.show
+  TextInputAction.done
+  TextInputAction.go
+  TextInputAction.newline
+  TextInputAction.next
+  TextInputAction.none
+  TextInputAction.previous
+  TextInputAction.search
+  TextInputAction.send
+  TextInputAction.unspecified
+  TextInputChannel
+  TextInputClient.performAction
+  TextInputClient.requestExistingInputS...
+  TextInputClient.updateEditingState
+  TextInputType.datetime
+  TextInputType.emailAddress
+  TextInputType.multiline
+  TextInputType.number
+  TextInputType.phone
+  TextInputType.text
+  TextInputType.url
+  TextInputType.visiblePassword
+  UNAVAILABLE_APK_TOO_OLD
+  UNAVAILABLE_ARCORE_NOT_INSTALLED
+  UNAVAILABLE_DEVICE_NOT_COMPATIBLE
+  UNAVAILABLE_SDK_TOO_OLD
+  UNAVAILABLE_USER_DECLINED_INSTALLATION
+  UNKNOWN
+  UNKNOWN_CHECKING
+  UNKNOWN_ERROR
+  UNKNOWN_TIMED_OUT
+  UNKNOWN_TO_JAVA
+  UNSUPPORTED_DEVICE_NOT_CAPABLE
+  URI
+  URL
+  URL_ACTIVATED
+  USER_ALREADY_INFORMED
+  UTF8
+  Unity
+  UnityMain
+  VALID
+  VERTICAL
+  VIEW
+  VIEW_NORMALIZED
+  VISIBLE_PASSWORD
+  Version
+  Video
+  WORDS
+  Z
+  accessibility
+  actionLabel
+  addView
+  alwaysUse24HourFormat
+  android
+  android.intent.action.MAIN
+  android.intent.action.RUN
+  android.intent.action.VIEW
+  android.intent.category.HOME
+  android.intent.extra.VR_LAUNCH
+  android.media.ACTION_SCO_AUDIO_STATE_...
+  android.media.extra.SCO_AUDIO_STATE
+  android.util.LongArray
+  android.view.View
+  android.widget.Button
+  android.widget.CheckBox
+  android.widget.EditText
+  android.widget.HorizontalScrollView
+  android.widget.ImageView
+  android.widget.RadioButton
+  android.widget.ScrollView
+  android.widget.SeekBar
+  android.widget.Switch
+  announce
+  ar
+  arcore_sdk_jni
+  arcoreapk.cc
+  args
+  assets/
+  audio
+  autocorrect
+  base
+  behavior
+  boolean
+  bottom
+  byte
+  camera
+  canLaunch
+  char
+  character
+  clearFocus
+  clipboard
+  closeWebView
+  codePoint
+  com.android.browser.headers
+  com.android.vending
+  com.google.android.play.core.install....
+  com.google.android.play.core.install....
+  com.google.android.play.core.install....
+  com.google.android.play.core.install....
+  com.google.ar.core
+  com.google.ar.core.disable_security_c...
+  com.google.ar.core.min_apk_version
+  com.google.ar.core.services.arcorecon...
+  com.google.vr.dynamite.LoadedInstance...
+  com.google.vr.dynamite.client.ILoaded...
+  com.google.vr.dynamite.client.INative...
+  com.google.vr.dynamite.client.IObject...
+  com.rexraphael.flutterunitywidget.Flu...
+  com.unity3d.player
+  com.unity3d.unitygvr.GoogleVR
+  composingBase
+  composingExtent
+  connectivity
+  content
+  create
+  createUnity
+  dark
+  data
+  decimal
+  default_input_method
+  deinitialize
+  destroyPlayer
+  deviceId
+  didResume
+  direction
+  display
+  dispose
+  double
+  drawable
+  enable
+  enableDomStorage
+  enableJavaScript
+  enableSuggestions
+  error
+  error.code
+  exceptionText
+  exceptionType
+  extent
+  flags
+  float
+  flutter
+  flutter/accessibility
+  flutter/isolate
+  flutter/keyevent
+  flutter/lifecycle
+  flutter/localization
+  flutter/navigation
+  flutter/platform
+  flutter/platform_views
+  flutter/settings
+  flutter/system
+  flutter/textinput
+  flutter_assets
+  gameObject
+  game_view_content_description
+  get
+  getChildId
+  getGvrLayout
+  getParentNodeId
+  getResId
+  getResPackage
+  getSetupIntent
+  getSourceNodeId
+  getVideoSurface
+  getVideoSurfaceId
+  headers
+  height
+  id
+  initialize
+  inputAction
+  inputType
+  inputTypeError
+  input_method
+  install.status
+  int
+  intent
+  io.flutter.app.android.SplashScreenUn...
+  io.flutter.plugins.urllauncher.UrlLau...
+  isAR
+  isReady
+  isolate_snapshot_data
+  java.
+  keyCode
+  keydown
+  keymap
+  keyup
+  label
+  launch
+  left
+  libapp.so
+  libflutter.so
+  light
+  load
+  long
+  longPress
+  mChildNodeIds
+  main
+  memoryPressure
+  message
+  metaState
+  method
+  methodName
+  name
+  nodeId
+  obscureText
+  ok
+  package.name
+  params
+  pause
+  phone
+  plainCodePoint
+  platformBrightness
+  plugins.flutter.io/url_launcher
+  popRoute
+  postMessage
+  primaryColor
+  productId
+  read
+  release
+  removeView
+  removeViewImmediate
+  repeatCount
+  required
+  resize
+  resolution.intent
+  resume
+  right
+  route
+  samsung
+  scanCode
+  selectionBase
+  selectionExtent
+  sensor
+  session_create.cc
+  session_jni.cc
+  session_jni_wrapper.cc
+  setDirection
+  setInitialRoute
+  setLocale
+  short
+  signed
+  source
+  startVideoPlayback
+  static
+  statusBarColor
+  statusBarIconBrightness
+  string
+  systemNavigationBarColor
+  systemNavigationBarDividerColor
+  systemNavigationBarIconBrightness
+  tap
+  text
+  text/plain
+  textCapitalization
+  textScaleFactor
+  tooltip
+  top
+  touch
+  trackable_base_jni.cc
+  transition_animation_scale
+  type
+  unity
+  unity_static_splash
+  unity_view
+  unity_view_
+  unityplayer.SkipPermissionsDialog
+  unload
+  updateVideoLayout
+  updateViewLayout
+  url
+  useWebView
+  vendorId
+  viewFocused
+  viewType
+  vm_snapshot_data
+  width
+  window
+  write
+  x
+Marking id:left:2131034139 used because its prefix matches string pool constant left
+Marking string:game_view_content_description:2131361798 used because its prefix matches string pool constant game_view_content_description
+Marking id:right:2131034147 used because its prefix matches string pool constant right
+Marking id:right_icon:2131034148 used because its prefix matches string pool constant right
+Marking id:right_side:2131034149 used because its prefix matches string pool constant right
+Marking id:text:2131034154 used because its prefix matches string pool constant text
+Marking id:text2:2131034155 used because its prefix matches string pool constant text
+Marking id:top:2131034158 used because its prefix matches string pool constant top
+Marking style:TextAppearance_Compat_Notification:2131427330 used because its prefix matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Info:2131427331 used because its prefix matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Line2:2131427332 used because its prefix matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Time:2131427333 used because its prefix matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Title:2131427334 used because its prefix matches string pool constant Text
+Marking style:TextAppearance_Compat:-1 used because its prefix matches string pool constant Text
+Marking style:TextAppearance:-1 used because its prefix matches string pool constant Text
+Marking drawable:launch_background:2130968577 used because its prefix matches string pool constant launch
+Marking attr:android_color:-1 used because its prefix matches string pool constant android
+Marking attr:android_alpha:-1 used because its prefix matches string pool constant android
+Marking attr:android_layout_gravity:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontStyle:-1 used because its prefix matches string pool constant android
+Marking attr:android_font:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontWeight:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontVariationSettings:-1 used because its prefix matches string pool constant android
+Marking attr:android_ttcIndex:-1 used because its prefix matches string pool constant android
+Marking attr:android_startColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_endColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_type:-1 used because its prefix matches string pool constant android
+Marking attr:android_gradientRadius:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerX:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerY:-1 used because its prefix matches string pool constant android
+Marking attr:android_startX:-1 used because its prefix matches string pool constant android
+Marking attr:android_startY:-1 used because its prefix matches string pool constant android
+Marking attr:android_endX:-1 used because its prefix matches string pool constant android
+Marking attr:android_endY:-1 used because its prefix matches string pool constant android
+Marking attr:android_tileMode:-1 used because its prefix matches string pool constant android
+Marking attr:android_offset:-1 used because its prefix matches string pool constant android
+Marking id:bottom:2131034123 used because its prefix matches string pool constant bottom
+Marking style:UnityThemeSelector:2131427335 used because its prefix matches string pool constant Unity
+Marking style:UnityThemeSelector_Translucent:2131427336 used because its prefix matches string pool constant Unity
+Resource Reference Graph:
+color:notification_action_color_filter:2130837504 => [color:secondary_text_default_material_light:2130837507]
+dimen:notification_media_narrow_margin:2130903054 => [dimen:notification_content_margin_start:2130903050]
+drawable:notification_action_background:2130968578 => [color:ripple_material_light:2130837506, dimen:compat_button_inset_vertical_material:2130903041, dimen:compat_button_inset_horizontal_material:2130903040, dimen:compat_control_corner_material:2130903044, dimen:compat_button_padding_vertical_material:2130903043, dimen:compat_button_padding_horizontal_material:2130903042]
+drawable:notification_bg:2130968579 => [drawable:notification_bg_normal_pressed:2130968584, drawable:notification_bg_normal:2130968583]
+drawable:notification_bg_low:2130968580 => [drawable:notification_bg_low_pressed:2130968582, drawable:notification_bg_low_normal:2130968581]
+drawable:notification_icon_background:2130968585 => [color:notification_icon_bg_color:2130837505]
+drawable:notification_tile_bg:2130968588 => [drawable:notify_panel_notification_icon_bg:2130968589]
+layout:__arcore_education:2131165184 => [string:__arcore_install_app:2131361794, string:__arcore_cancel:2131361792, string:__arcore_continue:2131361793]
+layout:notification_action:2131165185 => [style:Widget_Compat_NotificationActionContainer:2131427337, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131427338]
+layout:notification_action_tombstone:2131165186 => [style:Widget_Compat_NotificationActionContainer:2131427337, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131427338]
+layout:notification_template_custom_big:2131165187 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, layout:notification_template_icon_group:2131165188, dimen:notification_right_side_padding_top:2130903056, layout:notification_template_part_time:2131165190, layout:notification_template_part_chronometer:2131165189, style:TextAppearance_Compat_Notification_Info:2131427331]
+layout:notification_template_icon_group:2131165188 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, dimen:notification_big_circle_margin:2130903049, dimen:notification_right_icon_size:2130903055]
+layout:notification_template_part_chronometer:2131165189 => [style:TextAppearance_Compat_Notification_Time:2131427333]
+layout:notification_template_part_time:2131165190 => [style:TextAppearance_Compat_Notification_Time:2131427333]
+mipmap:app_icon:2131230720 => [mipmap:ic_launcher_background:2131230723, mipmap:ic_launcher_foreground:2131230724]
+mipmap:app_icon_round:2131230721 => [mipmap:ic_launcher_background:2131230723, mipmap:ic_launcher_foreground:2131230724]
+style:LaunchTheme:2131427329 => [drawable:launch_background:2130968577]
+style:TextAppearance_Compat_Notification_Info:2131427331 => [style:TextAppearance_Compat_Notification:2131427330, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:TextAppearance_Compat_Notification_Line2:2131427332 => [style:TextAppearance_Compat_Notification_Info:2131427331]
+style:TextAppearance_Compat_Notification_Time:2131427333 => [style:TextAppearance_Compat_Notification:2131427330, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:UnityThemeSelector:2131427335 => [style:BaseUnityTheme:2131427328]
+style:UnityThemeSelector_Translucent:2131427336 => [style:UnityThemeSelector:2131427335]
+style:Widget_Compat_NotificationActionContainer:2131427337 => [drawable:notification_action_background:2130968578]
+style:Widget_Compat_NotificationActionText:2131427338 => [color:secondary_text_default_material_light:2130837507, dimen:notification_action_text_size:2130903048]
+
+The root reachable resources are:
+drawable:launch_background:2130968577,
+   id:__arcore_cancelButton:2131034112,
+   id:__arcore_continueButton:2131034113,
+   id:__arcore_messageText:2131034114,
+   id:bottom:2131034123,
+   id:left:2131034139,
+   id:right:2131034147,
+   id:right_icon:2131034148,
+   id:right_side:2131034149,
+   id:text:2131034154,
+   id:text2:2131034155,
+   id:top:2131034158,
+   layout:__arcore_education:2131165184,
+   mipmap:ic_launcher:2131230722,
+   string:__arcore_cancel:2131361792,
+   string:__arcore_continue:2131361793,
+   string:__arcore_install_app:2131361794,
+   string:__arcore_install_feature:2131361795,
+   string:__arcore_installing:2131361796,
+   string:game_view_content_description:2131361798,
+   style:LaunchTheme:2131427329,
+   style:TextAppearance_Compat_Notification:2131427330,
+   style:TextAppearance_Compat_Notification_Info:2131427331,
+   style:TextAppearance_Compat_Notification_Line2:2131427332,
+   style:TextAppearance_Compat_Notification_Time:2131427333,
+   style:TextAppearance_Compat_Notification_Title:2131427334,
+   style:UnityThemeSelector:2131427335,
+   style:UnityThemeSelector_Translucent:2131427336,
+   attr:android_color:-1,
+   attr:android_alpha:-1,
+   attr:android_layout_gravity:-1,
+   attr:android_fontStyle:-1,
+   attr:android_font:-1,
+   attr:android_fontWeight:-1,
+   attr:android_fontVariationSettings:-1,
+   attr:android_ttcIndex:-1,
+   attr:android_startColor:-1,
+   attr:android_centerColor:-1,
+   attr:android_endColor:-1,
+   attr:android_type:-1,
+   attr:android_gradientRadius:-1,
+   attr:android_centerX:-1,
+   attr:android_centerY:-1,
+   attr:android_startX:-1,
+   attr:android_startY:-1,
+   attr:android_endX:-1,
+   attr:android_endY:-1,
+   attr:android_tileMode:-1,
+   attr:android_offset:-1,
+   style:TextAppearance_Compat:-1,
+   style:TextAppearance:-1
+Skipped unused resource res/drawable-v21/notification_action_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg_low.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_icon_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_tile_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png: 98 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png: 107 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/app_banner.png: 14945 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png: 252 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png: 247 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png: 138 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/layout-v21/notification_action.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action_tombstone.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_custom_big.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_icon_group.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_chronometer.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_time.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/app_icon.png: 1237 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/ic_launcher_background.png: 101 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/ic_launcher_foreground.png: 1554 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-anydpi-v26/app_icon.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/mipmap-anydpi-v26/app_icon_round.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/raw/keep.xml: -1 bytes (replaced with small dummy file of size 104 bytes)

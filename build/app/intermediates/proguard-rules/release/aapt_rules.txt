@@ -1,0 +1,11 @@
+# Referenced at C:\Users\X556u\Desktop\My_Code\Flutter_Application\SMKAY_E-SAINS\sains\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:44
+-keep class com.example.sains.MainActivity { <init>(...); }
+# Referenced at C:\Users\X556u\Desktop\My_Code\Flutter_Application\SMKAY_E-SAINS\sains\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:92
+-keep class com.google.ar.core.InstallActivity { <init>(...); }
+# Referenced at C:\Users\X556u\Desktop\My_Code\Flutter_Application\SMKAY_E-SAINS\sains\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:39
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
+# Referenced at C:\Users\X556u\Desktop\My_Code\Flutter_Application\SMKAY_E-SAINS\sains\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:69
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(...); }
+# Referenced at C:\Users\X556u\.gradle\caches\transforms-1\files-1.1\arcore_client.aar\46773fbacf0c56b1dafa5e56ae8cd3cc\res\layout\__arcore_education.xml:2
+-keep class android.widget.LinearLayout { <init>(...); }
+

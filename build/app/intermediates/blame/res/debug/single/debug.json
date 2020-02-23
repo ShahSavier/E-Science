@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_app_banner.png.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\UnityExport\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\app_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\UnityExport\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\46773fbacf0c56b1dafa5e56ae8cd3cc\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_app_icon.png.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\UnityExport\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\46773fbacf0c56b1dafa5e56ae8cd3cc\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\UnityExport\\intermediates\\packaged_res\\debug\\mipmap-mdpi-v4\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.jpg.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\UnityExport\\intermediates\\packaged_res\\debug\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\UnityExport\\intermediates\\packaged_res\\debug\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\X556u\\Desktop\\My_Code\\Flutter_Application\\SMKAY_E-SAINS\\sains\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\X556u\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\d0046ecf1a4ab3f0f3f9ba3412b0bf2d\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

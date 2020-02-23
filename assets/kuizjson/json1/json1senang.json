@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Antara berikut, yang manakah merupakan tindak balas tak terkawal?",
+        "2": "Manakah benar mengenai akar tumbuhan?",
+        "3": "Haiwan manakah mempunyai penglihatan monokular?\n\nI. Burung kakak tua\nII. Burung hantu\nIII. Monyet\nIV. Arnab",
+        "4": "Apakah jenis deria yang digunakan oleh anjing pengesan polis untuk mengesan suspek dalam suatu kes?",
+        "5": "Antara berikut, yang manakah berfungsi untuk mengawal kuantiti cahaya yang masuk ke dalam mata?"
+        
+    },
+    {
+        "1": {
+            "a": "Menari",
+            "b": "Membaca",
+            "c": "Membaling buku",
+            "d": "Bersin"
+        },
+        "2": {
+            "a": "Geotropisme negatif dan hidrotropisme positif",
+            "b": "Geotropisme positif dan hidrotropisme negatif",
+            "c": "Geotropisme dan hidrotropisme positif",
+            "d": "Fototropisme dan hidrotropisme positif"
+        },
+        "3": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "4": {
+            "a": "Deria rasa",
+            "b": "Deria bau",
+            "c": "Deria sentuh",
+            "d": "Deria penglihatan"
+        },
+        "5": {
+            "a": "Otot silia",
+            "b": "Kornea",
+            "c": "Pupil",
+            "d": "Ligamen penggantung"
+        }
+    },
+    {
+        "1": "Bersin",
+        "2": "Geotropisme dan hidrotropisme positif",
+        "3": "I dan IV",
+        "4": "Deria bau",
+        "5": "Kornea"   
+    }
+]

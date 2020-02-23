@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARPresto/ARPresto.iml" filepath="$PROJECT_DIR$/ARPresto/ARPresto.iml" group="sains/ARPresto" />
+      <module fileurl="file://$PROJECT_DIR$/UnityARCore/UnityARCore.iml" filepath="$PROJECT_DIR$/UnityARCore/UnityARCore.iml" group="sains/UnityARCore" />
+      <module fileurl="file://$PROJECT_DIR$/arcore_client/arcore_client.iml" filepath="$PROJECT_DIR$/arcore_client/arcore_client.iml" group="sains/arcore_client" />
+      <module fileurl="file://$PROJECT_DIR$/sains.iml" filepath="$PROJECT_DIR$/sains.iml" group="sains" />
+      <module fileurl="file://$PROJECT_DIR$/unity-classes/unity-classes.iml" filepath="$PROJECT_DIR$/unity-classes/unity-classes.iml" group="sains/unity-classes" />
+      <module fileurl="file://$PROJECT_DIR$/unityandroidpermissions/unityandroidpermissions.iml" filepath="$PROJECT_DIR$/unityandroidpermissions/unityandroidpermissions.iml" group="sains/unityandroidpermissions" />
+    </modules>
+  </component>
+</project>

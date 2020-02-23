@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Apakah yang berlaku semasa liang stoma tumbuhan terbuka?\n\nI. Air meresap keluar dari sel pegawal\nII. Air meresap masuk ke dalam sel pegawal\nIII. Kepekatan glukosa dalam sel pengawal meningkat\nIV. Sel pengawal menjadi flasid",
+        "2": "Manakah bahan berbahaya yang terdapat dalam asap rokok?\n\nI. Heroin\nII. Kokain\nIII. Arsenik\nIV. Ammonia",
+        "3": "Apakah kebaikan kerajaan Malaysia menguatkuasakan undang-undang larangan merokok sejauh 3m dari premis makanan?",
+        "4": "Penyakit manakah tidak disebabkan oleh merokok?",
+        "5": "Apabila otot diafragma mengecut.."
+        
+    },
+    {
+        "1": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "2": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "3": {
+            "a": "Mengurangkan jumlah perokok",
+            "b": "Mengurangkan pencemaran air",
+            "c": "Mengurangkan kes keracunan makanan",
+            "d": "Mengelakkan orang awam menjadi perokok pasif"
+        },
+        "4": {
+            "a": "Bronkitis",
+            "b": "Hepatitis B",
+            "c": "Sakit tekak",
+            "d": "Kanser paru-paru"
+        },
+        "5": {
+            "a": "Tulang rusuk dinaikkan",
+            "b": "Tulang rusuk dikembangkan",
+            "c": "Udara ditolak keluar daripada tulang rusuk",
+            "d": "Diafragma menjadi rata"
+        }
+    },
+    {
+        "1": "II dan III",
+        "2": "III dan IV",
+        "3": "Mengelakkan orang awam menjadi perokok pasif",
+        "4": "Sakit tekak",
+        "5": "Tulang rusuk dinaikkan"   
+    }
+]

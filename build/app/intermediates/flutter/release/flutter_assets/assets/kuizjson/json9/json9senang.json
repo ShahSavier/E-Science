@@ -1,0 +1,49 @@
+[
+    {
+        "1": "Apakah ciri-ciri zon radiasi?",
+        "2": "Antara berikut yang manakah menerangkan mengenai granul?\n\nI. Suhu setinggi 10 000°C\nII. Diameter purata adalah kira-kira 1000km\nIII. Kelihatan berbutir\nIV. elajuan sehingga 250 km s-1",
+        "3": "Antara berikut, pernyataan manakah yang benar mengenai kitaran suria?",
+        "4": "Apakah yang mempengaruhi bentuk magnetosfera",
+        "5": "Antara berikut, fenomena manakah yang berlaku di permukaan Matahari?\n\nI. Lentingan jisim korona\nII. Nyalaan suria\nIII. Ribut suria\nIV. Ribut geomagnet"
+        
+    },
+    {
+        "1": {
+            "a": "Lapisan tumpat atmosfera Matahari di bawah kromosfera yang kelihatan bercahaya kuning dari Bumi",
+            "b": "Lapisan gas putih kebiruan yang paling luar pada atmosfera Matahari",
+            "c": "Lapisan gas yang berwarna merah cerah di bawah korona",
+            "d": "Lapisan yang berada di atas teras Matahari"
+        },
+        "2": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        },
+        "3": {
+            "a": "Kawasan gelap yang kelihatan pada permukaan Matahari",
+            "b": "Mengambil masa 10 tahun untuk satu kitaran lengkap",
+            "c": "Ditentukan berdasarkan peningkatan atau penurunan bilangan nyalaan suria",
+            "d": "Ditentukan berdasarkan peningkatan atau penurunan bilangan tompok Matahari"
+        },
+        "4": {
+            "a": "Medan magnet Bumi",
+            "b": "Saiz lentingan jisim korona",
+            "c": "Suhu dan cahaya yang dipancarkan Matahari",
+            "d": "Bilangan dan tenaga zarah-zarah yang dibawa oleh angin suria"
+        },
+        "5": {
+            "a": "I dan II",
+            "b": "III dan IV",
+            "c": "II dan III",
+            "d": "I dan IV"
+        }
+    },
+    {
+        "1": "Lapisan yang berada di atas teras Matahari",
+        "2": "II dan III",
+        "3": "Ditentukan berdasarkan peningkatan atau penurunan bilangan tompok Matahari",
+        "4": "Bilangan dan tenaga zarah-zarah yang dibawa oleh angin suria",
+        "5": "I dan II"   
+    }
+]
